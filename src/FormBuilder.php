@@ -107,6 +107,8 @@ class FormBuilder
      */
     protected $type = null;
 
+    protected $payload = [];
+
     /**
      * Create a new form builder instance.
      *
